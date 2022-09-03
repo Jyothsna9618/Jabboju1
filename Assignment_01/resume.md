@@ -1,6 +1,6 @@
 JYOTHSNA ABBOJU
 ============
-![](Jyothsna pic.jpg)
+![](jabboju1.JPG)
 
 -------------------     ----------------------------
 - My Address            :  5346 Jamestowne Court<br />
