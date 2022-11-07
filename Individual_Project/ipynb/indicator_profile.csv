@@ -1,0 +1,15 @@
+,Topic,Indicator ID,Indicator Name,Action
+0,Gender,SE.ADT.1524.LT.FM.ZS,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",Remove
+1,Gender,SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)",Remove
+2,Gender,SE.PRM.CUAT.ZS,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",Remove
+3,Gender,SG.AGE.RTRE.FL.FE,"Retirement age with full benefits, female",Remove
+4,Gender,SG.AGE.RTRE.FL.MA,"Retirement age with full benefits, male",Remove
+5,Gender,SG.BUS.REGT.EQ,A woman can register a business in the same way as a man (1=yes; 0=no),Remove
+6,Gender,SG.TIM.UWRK.FE,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",Remove
+7,Gender,SG.TIM.UWRK.MA,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",Remove
+8,Gender,SL.EMP.1524.SP.FE.ZS,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",Remove
+9,Gender,SL.EMP.1524.SP.MA.ZS,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",Remove
+10,Health,SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",Remove
+11,Health,SH.DTH.IMRT,Number of infant deaths,Remove
+12,Health,SH.DTH.IMRT.FE,"Number of infant deaths, female",Remove
+13,Health,SH.DTH.IMRT.MA,"Number of infant deaths, male",Remove
