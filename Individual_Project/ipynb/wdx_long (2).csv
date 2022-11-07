@@ -1,0 +1,426 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,564.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2017,563.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2018,563.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2019,561.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2020,558.0,SH.DTH.IMRT.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2016,973.0,SH.DTH.IMRT.MA,CAN,Canada,North America,High income,Not classified
+6,2017,965.0,SH.DTH.IMRT.MA,CAN,Canada,North America,High income,Not classified
+7,2018,954.0,SH.DTH.IMRT.MA,CAN,Canada,North America,High income,Not classified
+8,2019,944.0,SH.DTH.IMRT.MA,CAN,Canada,North America,High income,Not classified
+9,2020,933.0,SH.DTH.IMRT.MA,CAN,Canada,North America,High income,Not classified
+10,2016,74365.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2017,67479.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2018,60980.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2019,55177.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2020,49931.0,SH.DTH.IMRT.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2016,417887.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+16,2017,395694.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+17,2018,375313.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+18,2019,357878.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+19,2020,341425.0,SH.DTH.IMRT.MA,IND,India,South Asia,Lower middle income,IBRD
+20,2016,175.0,SH.DTH.IMRT.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+21,2017,174.0,SH.DTH.IMRT.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+22,2018,173.0,SH.DTH.IMRT.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+23,2019,173.0,SH.DTH.IMRT.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+24,2020,171.0,SH.DTH.IMRT.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+25,2016,7432.0,SH.DTH.IMRT.MA,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+26,2017,6993.0,SH.DTH.IMRT.MA,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+27,2018,6562.0,SH.DTH.IMRT.MA,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+28,2019,6171.0,SH.DTH.IMRT.MA,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+29,2020,5779.0,SH.DTH.IMRT.MA,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+30,2016,2035.0,SH.DTH.IMRT.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+31,2017,1912.0,SH.DTH.IMRT.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+32,2018,1789.0,SH.DTH.IMRT.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+33,2019,1678.0,SH.DTH.IMRT.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+34,2020,1576.0,SH.DTH.IMRT.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+35,2016,361.0,SH.DTH.IMRT.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+36,2017,350.0,SH.DTH.IMRT.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+37,2018,338.0,SH.DTH.IMRT.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+38,2019,328.0,SH.DTH.IMRT.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+39,2020,317.0,SH.DTH.IMRT.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+40,2016,1669.0,SH.DTH.IMRT.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+41,2017,1641.0,SH.DTH.IMRT.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+42,2018,1614.0,SH.DTH.IMRT.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+43,2019,1590.0,SH.DTH.IMRT.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+44,2020,1562.0,SH.DTH.IMRT.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+45,2016,12422.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+46,2017,12311.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+47,2018,12220.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+48,2019,12095.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+49,2020,11935.0,SH.DTH.IMRT.MA,USA,United States,North America,High income,Not classified
+50,2016,1014.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+51,2017,1010.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+52,2018,1008.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+53,2019,1005.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+54,2020,1000.0,SH.DTH.IMRT,AUS,Australia,East Asia & Pacific,High income,Not classified
+55,2016,1777.0,SH.DTH.IMRT,CAN,Canada,North America,High income,Not classified
+56,2017,1757.0,SH.DTH.IMRT,CAN,Canada,North America,High income,Not classified
+57,2018,1736.0,SH.DTH.IMRT,CAN,Canada,North America,High income,Not classified
+58,2019,1715.0,SH.DTH.IMRT,CAN,Canada,North America,High income,Not classified
+59,2020,1692.0,SH.DTH.IMRT,CAN,Canada,North America,High income,Not classified
+60,2016,131852.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+61,2017,120075.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+62,2018,109028.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+63,2019,98805.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+64,2020,89463.0,SH.DTH.IMRT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+65,2016,802055.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+66,2017,757238.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+67,2018,716249.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+68,2019,680527.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+69,2020,647688.0,SH.DTH.IMRT,IND,India,South Asia,Lower middle income,IBRD
+70,2016,317.0,SH.DTH.IMRT,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+71,2017,316.0,SH.DTH.IMRT,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+72,2018,314.0,SH.DTH.IMRT,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+73,2019,313.0,SH.DTH.IMRT,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+74,2020,311.0,SH.DTH.IMRT,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+75,2016,13709.0,SH.DTH.IMRT,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+76,2017,12875.0,SH.DTH.IMRT,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+77,2018,12068.0,SH.DTH.IMRT,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+78,2019,11297.0,SH.DTH.IMRT,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+79,2020,10588.0,SH.DTH.IMRT,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+80,2016,3584.0,SH.DTH.IMRT,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+81,2017,3368.0,SH.DTH.IMRT,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+82,2018,3162.0,SH.DTH.IMRT,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+83,2019,2967.0,SH.DTH.IMRT,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+84,2020,2786.0,SH.DTH.IMRT,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+85,2016,641.0,SH.DTH.IMRT,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+86,2017,621.0,SH.DTH.IMRT,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+87,2018,600.0,SH.DTH.IMRT,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+88,2019,581.0,SH.DTH.IMRT,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+89,2020,562.0,SH.DTH.IMRT,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+90,2016,2980.0,SH.DTH.IMRT,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+91,2017,2933.0,SH.DTH.IMRT,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+92,2018,2889.0,SH.DTH.IMRT,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+93,2019,2844.0,SH.DTH.IMRT,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+94,2020,2795.0,SH.DTH.IMRT,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+95,2016,22334.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+96,2017,22068.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+97,2018,21847.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+98,2019,21652.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+99,2020,21451.0,SH.DTH.IMRT,USA,United States,North America,High income,Not classified
+100,2016,9.58333,SG.TIM.UWRK.MA,CAN,Canada,North America,High income,Not classified
+101,2018,5.90278,SG.TIM.UWRK.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+102,2016,10.80417,SG.TIM.UWRK.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+103,2016,9.79167,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+104,2017,9.875,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+105,2018,9.54167,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+106,2019,9.66667,SG.TIM.UWRK.MA,USA,United States,North America,High income,Not classified
+107,2016,58.7989997864,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+108,2017,58.733001709,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+109,2018,60.3170013428,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+110,2019,60.763999939,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+111,2020,57.7299995422,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+112,2021,62.7319984436,SL.EMP.1524.SP.FE.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+113,2016,56.7849998474,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+114,2017,57.6479988098,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+115,2018,57.2430000305,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+116,2019,58.8030014038,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+117,2020,49.5849990845,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+118,2021,54.8250007629,SL.EMP.1524.SP.FE.ZS,CAN,Canada,North America,High income,Not classified
+119,2016,43.6329994202,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+120,2017,42.611000061,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+121,2018,41.686000824,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+122,2019,40.5099983215,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+123,2020,38.0079994202,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+124,2021,38.9760017395,SL.EMP.1524.SP.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+125,2016,8.7969999313,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+126,2017,8.1730003357,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+127,2018,7.5710000992,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+128,2019,7.6149997711,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+129,2020,6.3270001411,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+130,2021,6.2230000496,SL.EMP.1524.SP.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+131,2016,63.1640014648,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+132,2017,62.3450012207,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+133,2018,62.5830001831,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+134,2019,61.5550003052,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+135,2020,59.4169998169,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+136,2021,57.1310005188,SL.EMP.1524.SP.FE.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+137,2016,23.2000007629,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+138,2017,23.1180000305,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+139,2018,23.4370002747,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+140,2019,22.7520008087,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+141,2020,19.4409999847,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+142,2021,20.5119991302,SL.EMP.1524.SP.FE.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+143,2016,25.1159992218,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+144,2017,26.5100002289,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+145,2018,25.6520004272,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+146,2019,26.7719993591,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+147,2020,23.2129993439,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+148,2021,25.3349990845,SL.EMP.1524.SP.FE.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+149,2016,30.7420005798,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+150,2017,29.4459991455,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+151,2018,27.375,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+152,2019,27.1760005951,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+153,2020,23.7740001678,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+154,2021,24.2749996185,SL.EMP.1524.SP.FE.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+155,2016,51.1139984131,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+156,2017,50.7989997864,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+157,2018,49.9430007935,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+158,2019,50.6180000305,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+159,2020,48.0159988403,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+160,2021,49.4090003967,SL.EMP.1524.SP.FE.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+161,2016,44.3650016785,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+162,2017,45.3639984131,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+163,2018,45.78099823,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+164,2019,46.4790000916,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+165,2020,41.2249984741,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+166,2021,45.3740005493,SL.EMP.1524.SP.FE.ZS,USA,United States,North America,High income,Not classified
+167,2016,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+168,2017,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+169,2018,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+170,2019,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+171,2020,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+172,2021,1.0,SG.BUS.REGT.EQ,AUS,Australia,East Asia & Pacific,High income,Not classified
+173,2016,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+174,2017,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+175,2018,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+176,2019,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+177,2020,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+178,2021,1.0,SG.BUS.REGT.EQ,CAN,Canada,North America,High income,Not classified
+179,2016,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+180,2017,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+181,2018,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+182,2019,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+183,2020,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+184,2021,1.0,SG.BUS.REGT.EQ,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+185,2016,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+186,2017,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+187,2018,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+188,2019,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+189,2020,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+190,2021,1.0,SG.BUS.REGT.EQ,IND,India,South Asia,Lower middle income,IBRD
+191,2016,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+192,2017,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+193,2018,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+194,2019,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+195,2020,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+196,2021,1.0,SG.BUS.REGT.EQ,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+197,2016,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+198,2017,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+199,2018,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+200,2019,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+201,2020,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+202,2021,1.0,SG.BUS.REGT.EQ,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+203,2016,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+204,2017,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+205,2018,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+206,2019,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+207,2020,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+208,2021,1.0,SG.BUS.REGT.EQ,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+209,2016,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+210,2017,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+211,2018,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+212,2019,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+213,2020,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+214,2021,1.0,SG.BUS.REGT.EQ,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+215,2016,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+216,2017,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+217,2018,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+218,2019,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+219,2020,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+220,2021,1.0,SG.BUS.REGT.EQ,USA,United States,North America,High income,Not classified
+221,2016,14.58333,SG.TIM.UWRK.FE,CAN,Canada,North America,High income,Not classified
+222,2018,15.34722,SG.TIM.UWRK.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+223,2016,16.83333,SG.TIM.UWRK.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+224,2016,15.91667,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+225,2017,15.41667,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+226,2018,15.375,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+227,2019,15.33333,SG.TIM.UWRK.FE,USA,United States,North America,High income,Not classified
+228,2016,99.6673431396,SE.PRM.CUAT.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+229,2018,99.6746520996,SE.PRM.CUAT.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+230,2019,99.5933609009,SE.PRM.CUAT.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+231,2016,88.9477005005,SE.PRM.CUAT.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+232,2017,89.501449585,SE.PRM.CUAT.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+233,2019,91.03515625,SE.PRM.CUAT.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+234,2016,82.910987854,SE.PRM.CUAT.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+235,2017,88.4312667847,SE.PRM.CUAT.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+236,2018,91.0054321289,SE.PRM.CUAT.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+237,2019,92.9965362549,SE.PRM.CUAT.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+238,2017,100.0,SE.PRM.CUAT.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+239,2020,100.0,SE.PRM.CUAT.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+240,2016,98.8771133423,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+241,2018,99.0315322876,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+242,2020,99.0557785034,SE.PRM.CUAT.ZS,USA,United States,North America,High income,Not classified
+243,2021,66.5,SG.AGE.RTRE.FL.MA,AUS,Australia,East Asia & Pacific,High income,Not classified
+244,2021,65.0,SG.AGE.RTRE.FL.MA,CAN,Canada,North America,High income,Not classified
+245,2021,60.0,SG.AGE.RTRE.FL.MA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+246,2021,58.0,SG.AGE.RTRE.FL.MA,IND,India,South Asia,Lower middle income,IBRD
+247,2021,65.0,SG.AGE.RTRE.FL.MA,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+248,2021,60.0,SG.AGE.RTRE.FL.MA,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+249,2021,60.0,SG.AGE.RTRE.FL.MA,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+250,2021,66.0,SG.AGE.RTRE.FL.MA,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+251,2021,66.2,SG.AGE.RTRE.FL.MA,USA,United States,North America,High income,Not classified
+252,2016,0.9997799993,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+253,2017,0.9998999834000001,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+254,2018,0.9989100099,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+255,2019,0.99921,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+256,2020,0.9980400205000001,SE.ENR.PRIM.FM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+257,2016,1.0008599758,SE.ENR.PRIM.FM.ZS,CAN,Canada,North America,High income,Not classified
+258,2017,0.9975900054000001,SE.ENR.PRIM.FM.ZS,CAN,Canada,North America,High income,Not classified
+259,2018,0.995660007,SE.ENR.PRIM.FM.ZS,CAN,Canada,North America,High income,Not classified
+260,2019,0.9942899942000001,SE.ENR.PRIM.FM.ZS,CAN,Canada,North America,High income,Not classified
+261,2016,1.0050899982,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+262,2017,1.0094799995,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+263,2018,1.0113500357,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+264,2019,1.0117199421,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+265,2020,1.0097700357,SE.ENR.PRIM.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+266,2016,1.1610399485,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+267,2017,1.1472500563,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+268,2019,1.0195800066,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+269,2020,1.0194100142,SE.ENR.PRIM.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+270,2016,0.9931200147,SE.ENR.PRIM.FM.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+271,2017,0.9932399988,SE.ENR.PRIM.FM.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+272,2018,0.9939399958,SE.ENR.PRIM.FM.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+273,2019,0.9951199889000001,SE.ENR.PRIM.FM.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+274,2016,0.993809998,SE.ENR.PRIM.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+275,2017,0.9898700118,SE.ENR.PRIM.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+276,2018,0.9887099862000001,SE.ENR.PRIM.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+277,2019,0.9878699780000001,SE.ENR.PRIM.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+278,2016,0.9645199776000001,SE.ENR.PRIM.FM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+279,2017,0.9809299707,SE.ENR.PRIM.FM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+280,2019,1.0019899607,SE.ENR.PRIM.FM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+281,2020,1.0094300508,SE.ENR.PRIM.FM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+282,2016,0.9982799888,SE.ENR.PRIM.FM.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+283,2017,0.9971299767,SE.ENR.PRIM.FM.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+284,2018,0.9971100092,SE.ENR.PRIM.FM.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+285,2019,0.9976300001,SE.ENR.PRIM.FM.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+286,2016,0.9983299971,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+287,2017,0.9923400283,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+288,2018,0.9988399744,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+289,2019,1.0070500374,SE.ENR.PRIM.FM.ZS,USA,United States,North America,High income,Not classified
+290,2021,66.5,SG.AGE.RTRE.FL.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+291,2021,65.0,SG.AGE.RTRE.FL.FE,CAN,Canada,North America,High income,Not classified
+292,2021,50.0,SG.AGE.RTRE.FL.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+293,2021,58.0,SG.AGE.RTRE.FL.FE,IND,India,South Asia,Lower middle income,IBRD
+294,2021,64.0,SG.AGE.RTRE.FL.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+295,2021,60.0,SG.AGE.RTRE.FL.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+296,2021,60.0,SG.AGE.RTRE.FL.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+297,2021,66.0,SG.AGE.RTRE.FL.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+298,2021,66.2,SG.AGE.RTRE.FL.FE,USA,United States,North America,High income,Not classified
+299,2016,57.9029998779,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+300,2017,58.158000946,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+301,2018,59.297000885,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+302,2019,59.3849983215,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+303,2020,55.7999992371,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+304,2021,59.15599823,SL.EMP.1524.SP.MA.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+305,2016,54.0950012207,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+306,2017,55.4189987183,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+307,2018,55.4129981995,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+308,2019,56.1489982605,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+309,2020,48.8639984131,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+310,2021,53.0719985962,SL.EMP.1524.SP.MA.ZS,CAN,Canada,North America,High income,Not classified
+311,2016,49.0340003967,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+312,2017,48.4210014343,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+313,2018,47.9350013733,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+314,2019,47.016998291,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+315,2020,44.7220001221,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+316,2021,45.7789993286,SL.EMP.1524.SP.MA.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+317,2016,33.9239997864,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+318,2017,32.8289985657,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+319,2018,31.6930007935,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+320,2019,31.9400005341,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+321,2020,27.3589992523,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+322,2021,26.579000473,SL.EMP.1524.SP.MA.ZS,IND,India,South Asia,Lower middle income,IBRD
+323,2016,61.8429985046,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+324,2017,63.8880004883,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+325,2018,62.6259994507,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+326,2019,60.811000824,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+327,2020,59.4609985352,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+328,2021,60.2589988708,SL.EMP.1524.SP.MA.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+329,2016,45.1669998169,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+330,2017,45.8129997253,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+331,2018,46.7400016785,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+332,2019,43.8120002747,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+333,2020,39.3320007324,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+334,2021,41.8300018311,SL.EMP.1524.SP.MA.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+335,2016,29.4750003815,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+336,2017,31.3330001831,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+337,2018,33.1539993286,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+338,2019,34.1959991455,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+339,2020,29.5739994049,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+340,2021,33.7430000305,SL.EMP.1524.SP.MA.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+341,2016,60.9480018616,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+342,2017,59.5769996643,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+343,2018,57.8470001221,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+344,2019,58.2050018311,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+345,2020,52.888999939,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+346,2021,54.0589981079,SL.EMP.1524.SP.MA.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+347,2016,50.5099983215,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+348,2017,50.3790016174,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+349,2018,51.436000824,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+350,2019,50.158000946,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+351,2020,46.5530014038,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+352,2021,48.2729988098,SL.EMP.1524.SP.MA.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+353,2016,45.5489997864,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+354,2017,46.216999054,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+355,2018,46.0099983215,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+356,2019,46.658000946,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+357,2020,42.2299995422,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+358,2021,45.9249992371,SL.EMP.1524.SP.MA.ZS,USA,United States,North America,High income,Not classified
+359,2019,4.9410543219,SH.DTH.COMM.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+360,2019,4.7722522673,SH.DTH.COMM.ZS,CAN,Canada,North America,High income,Not classified
+361,2019,3.5497105578,SH.DTH.COMM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+362,2019,24.1661843666,SH.DTH.COMM.ZS,IND,India,South Asia,Lower middle income,IBRD
+363,2019,4.7488094699,SH.DTH.COMM.ZS,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+364,2019,5.1653184719,SH.DTH.COMM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+365,2019,3.1338159555,SH.DTH.COMM.ZS,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+366,2019,7.0916912706,SH.DTH.COMM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+367,2019,8.156775141,SH.DTH.COMM.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+368,2019,5.3020598009,SH.DTH.COMM.ZS,USA,United States,North America,High income,Not classified
+369,2016,450.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+370,2017,447.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+371,2018,445.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+372,2019,444.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+373,2020,442.0,SH.DTH.IMRT.FE,AUS,Australia,East Asia & Pacific,High income,Not classified
+374,2016,804.0,SH.DTH.IMRT.FE,CAN,Canada,North America,High income,Not classified
+375,2017,792.0,SH.DTH.IMRT.FE,CAN,Canada,North America,High income,Not classified
+376,2018,782.0,SH.DTH.IMRT.FE,CAN,Canada,North America,High income,Not classified
+377,2019,771.0,SH.DTH.IMRT.FE,CAN,Canada,North America,High income,Not classified
+378,2020,759.0,SH.DTH.IMRT.FE,CAN,Canada,North America,High income,Not classified
+379,2016,57487.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+380,2017,52596.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+381,2018,48048.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+382,2019,43628.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+383,2020,39532.0,SH.DTH.IMRT.FE,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+384,2016,384168.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+385,2017,361544.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+386,2018,340936.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+387,2019,322649.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+388,2020,306263.0,SH.DTH.IMRT.FE,IND,India,South Asia,Lower middle income,IBRD
+389,2016,142.0,SH.DTH.IMRT.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+390,2017,142.0,SH.DTH.IMRT.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+391,2018,141.0,SH.DTH.IMRT.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+392,2019,140.0,SH.DTH.IMRT.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+393,2020,140.0,SH.DTH.IMRT.FE,CHE,Switzerland,Europe & Central Asia,High income,Not classified
+394,2016,6277.0,SH.DTH.IMRT.FE,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+395,2017,5882.0,SH.DTH.IMRT.FE,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+396,2018,5506.0,SH.DTH.IMRT.FE,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+397,2019,5126.0,SH.DTH.IMRT.FE,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+398,2020,4809.0,SH.DTH.IMRT.FE,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+399,2016,1549.0,SH.DTH.IMRT.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+400,2017,1456.0,SH.DTH.IMRT.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+401,2018,1373.0,SH.DTH.IMRT.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+402,2019,1289.0,SH.DTH.IMRT.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+403,2020,1210.0,SH.DTH.IMRT.FE,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
+404,2016,280.0,SH.DTH.IMRT.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+405,2017,271.0,SH.DTH.IMRT.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+406,2018,262.0,SH.DTH.IMRT.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+407,2019,253.0,SH.DTH.IMRT.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+408,2020,245.0,SH.DTH.IMRT.FE,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+409,2016,1311.0,SH.DTH.IMRT.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+410,2017,1292.0,SH.DTH.IMRT.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+411,2018,1275.0,SH.DTH.IMRT.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+412,2019,1254.0,SH.DTH.IMRT.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+413,2020,1233.0,SH.DTH.IMRT.FE,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+414,2016,9912.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+415,2017,9757.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+416,2018,9627.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+417,2019,9557.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+418,2020,9516.0,SH.DTH.IMRT.FE,USA,United States,North America,High income,Not classified
+419,2018,1.0,SE.ADT.1524.LT.FM.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+420,2018,0.9696400166,SE.ADT.1524.LT.FM.ZS,IND,India,South Asia,Lower middle income,IBRD
+421,2016,0.9951099753,SE.ADT.1524.LT.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+422,2017,0.9967799783000001,SE.ADT.1524.LT.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+423,2019,0.9988300204,SE.ADT.1524.LT.FM.ZS,TUR,Turkiye,Europe & Central Asia,Upper middle income,IBRD
+424,2019,1.0284899473,SE.ADT.1524.LT.FM.ZS,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
